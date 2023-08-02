@@ -1,7 +1,7 @@
 Speech Emotion Recognition (SER) is the process of extracting emotional linguistic information from speech.
 The performance of such applications depends much of a high-quality speech emotion recognition dataset.
 
-This project was done through the site Kaggle and with the recurrent neural network (RNN) **Long Short-Term Memory)**.
+The project was done through the site Kaggle and with the method recurrent neural network (RNN) **Long Short-Term Memory**.
 In order to run the code, you have to use the notebook provided by Kaggle and upload the dataset **Acted Emotional Speech Dynamic Database**.
 
 The Acted Emotional Speech Dynamic Database (AESDD) is a publicly available speech emotion recognition dataset, where it contains
